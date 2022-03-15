@@ -26,34 +26,34 @@ function MyApp({ Component, pageProps }: AppProps) {
                 `}
       </Script>
       <NextSeo
-        title="Anurag | Frontend Developer"
-        titleTemplate="Anurag | Frontend Developer"
-        defaultTitle="Anurag | Frontend Developer"
-        description="Hey! I'm Anurag, A Frontend Developer, Blogger and a Student!"
+        title="Tugdual | Ingénieur Informatique"
+        titleTemplate="Tugdual | Ingénieur Informatique"
+        defaultTitle="Tugdual | Ingénieur Informatique"
+        description="Hey! Je suis Tugdual, Ingénieur Informatique !"
         openGraph={{
-          url: "https://www.anurag.tech/",
-          title: "Anurag | Frontend Developer",
+          url: "https://www.Tugdual.tech/",
+          title: "Tugdual | Ingénieur Informatique",
           description:
-            "Hey! I'm Anurag, A Frontend Developer, Blogger and a Student!",
+            "Hey! Je suis Tugdual, Ingénieur Informatique !",
           images: [
             {
               url: "https://res.cloudinary.com/ddum5vpp3/image/upload/v1643532760/og-image_dwcwhp.png",
               width: 800,
               height: 420,
-              alt: "Anurag | Frontend Developer",
+              alt: "Tugdual | Ingénieur Informatique",
             },
           ],
         }}
         twitter={{
-          handle: "@kr_anurag_",
-          site: "@kr_anurag_",
+          handle: "@kr_Tugdual_",
+          site: "@kr_Tugdual_",
           cardType: "summary_large_image",
         }}
         additionalMetaTags={[
           {
             property: "keywords",
             content:
-              "Frontend Developer, anurag, anuragkr, Web Developer, web development, web developer, blogger, tech enthusiast, open source",
+              "Ingénieur Informatique, Tugdual, Tugdualkr, Web Developer, web development, web developer, blogger, tech enthusiast, open source",
           },
         ]}
       />

@@ -6,7 +6,7 @@ import Link from "next/link";
 const Contact = () => {
   return (
     <div className="px-3 font-sen" id="contact">
-      <p className="text-3xl font-bold text-white">Get in touch</p>
+      <p className="text-3xl font-bold text-white">Restons en contact</p>
 
       <div className="my-8 flex flex-row justify-center gap-x-4">
         <Link href="https://github.com/kr-anurag" passHref>
